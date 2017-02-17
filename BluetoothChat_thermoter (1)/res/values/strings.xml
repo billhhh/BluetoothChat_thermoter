@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">蓝牙温度计</string>
+
+    <string name="Sun">Sun</string>
+    <string name="Mon">Mon</string>
+    <string name="Tue">Tue</string>
+    <string name="Wed">Wed</string>
+    <string name="Thu">Thu</string>
+    <string name="Fri">Fri</string>
+    <string name="Sat">Sat</string>
+    
+    <!--  BluetoothChat -->
+    <string name="send">发送</string>
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth Chat.</string>
+    <string name="title_connecting">正在连接...</string>
+    <string name="title_connected_to">已连接: </string>
+    <string name="title_not_connected">未连接</string>
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">正在扫描中...</string>
+    <string name="select_device">选择设备连接</string>
+    <string name="none_paired">无配对设备</string>
+    <string name="none_found">没有发现可用设备</string>
+    <string name="title_paired_devices">已配对的设备</string>
+    <string name="title_other_devices">扫描出的设备</string>
+    <string name="button_scan">蓝牙扫描</string>
+
+    <!-- Options Menu -->
+    <string name="connect">连接一个设备</string>
+    <string name="discoverable">Make discoverable</string>
+</resources>
